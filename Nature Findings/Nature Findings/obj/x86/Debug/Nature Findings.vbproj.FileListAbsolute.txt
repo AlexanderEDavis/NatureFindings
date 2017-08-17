@@ -1,0 +1,287 @@
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+D:\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Species.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Search.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Location.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Species.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Search.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.vbproj.GenerateResource.Cache
+G:\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+H:\Computing\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+H:\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+H:\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+H:\Computing\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+D:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+D:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+E:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+E:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+G:\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+G:\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+H:\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+H:\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+G:\Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+G:\Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+D:\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+D:\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+\\ccscc101\C06\DavAle06\Computing Project Build\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+\\ccscc101\C06\DavAle06\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing Project Build\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings Database.accdb
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.application
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.pdb
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.xml
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Species.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Finds.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Location_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.My_Account.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Home.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Knowledge_Base_Locations.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Life_List.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Login.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Species_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.User_IDs.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Welcome.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Edit_Find.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.New_Location.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature_Findings_System.Resources.resources
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe.manifest
+\\ccscc101\C06\DavAle06\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.application
+C:\Users\Alexander\Google Drive\Coundon Court School Work\School Backup\Computing\Computing Project Finished\Nature Findings\Nature Findings\bin\Debug\Nature Findings.exe.config
+C:\Users\Alexander\Google Drive\Coundon Court School Work\School Backup\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.exe
+C:\Users\Alexander\Google Drive\Coundon Court School Work\School Backup\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.xml
+C:\Users\Alexander\Google Drive\Coundon Court School Work\School Backup\Computing\Computing Project Finished\Nature Findings\Nature Findings\obj\x86\Debug\Nature Findings.pdb
